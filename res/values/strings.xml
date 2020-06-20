@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <string name="app_name">Launcher5</string>
+    <string name="appwidget_id_file">appwidget_ids.txt</string>
+    
+    <string name="menu_insert_widget_label">Add widget</string>
+    <string name="menu_remove_widget_label">Remove widget</string>
+    
+</resources>
